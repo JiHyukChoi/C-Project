@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="x-windows-949" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-15T17:21:11</date>
+  <millis>1618474871917</millis>
+  <sequence>0</sequence>
+  <logger>cproject.CustomLogFormatter</logger>
+  <level>INFO</level>
+  <class>cproject.CustomLogFormatter</class>
+  <method>logPrint</method>
+  <thread>1</thread>
+  <message>---main() Start---</message>
+</record>
+<record>
+  <date>2021-04-15T17:21:11</date>
+  <millis>1618474871923</millis>
+  <sequence>1</sequence>
+  <logger>cproject.CustomLogFormatter</logger>
+  <level>INFO</level>
+  <class>cproject.CustomLogFormatter</class>
+  <method>logPrint</method>
+  <thread>1</thread>
+  <message>Info... log</message>
+</record>
+<record>
+  <date>2021-04-15T17:21:11</date>
+  <millis>1618474871923</millis>
+  <sequence>2</sequence>
+  <logger>cproject.CustomLogFormatter</logger>
+  <level>WARNING</level>
+  <class>cproject.CustomLogFormatter</class>
+  <method>logPrint</method>
+  <thread>1</thread>
+  <message>Warning... log</message>
+</record>
+<record>
+  <date>2021-04-15T17:21:11</date>
+  <millis>1618474871924</millis>
+  <sequence>3</sequence>
+  <logger>cproject.CustomLogFormatter</logger>
+  <level>SEVERE</level>
+  <class>cproject.CustomLogFormatter</class>
+  <method>logPrint</method>
+  <thread>1</thread>
+  <message>Severe...  log</message>
+</record>
+<record>
+  <date>2021-04-15T17:21:11</date>
+  <millis>1618474871925</millis>
+  <sequence>4</sequence>
+  <logger>cproject.CustomLogFormatter</logger>
+  <level>INFO</level>
+  <class>cproject.CustomLogFormatter</class>
+  <method>logPrint</method>
+  <thread>1</thread>
+  <message>---main() End---</message>
+</record>
